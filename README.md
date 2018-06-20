@@ -1,6 +1,6 @@
 # weahu
 weahu issues submit!
-
+1234
 
 https://api.github.com/repos/zkzqzzz/weahu/issues/+id
 
